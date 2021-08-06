@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Luanzacarias
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning JavaScript and React-Native
+- Olá, Meu nome é Luan Zacarias.
+- Tenho 17 ano e sou estudante do Ensino Médio.
+- Atualmente estudo Javascript e React Native, sempre em busca de me aperfeiçoar.
+
+
+
+- Conhecimentos em HTML, CSS, Javascript, Typescript, React Native, Python e SQL.
+- Contato: luanslzacarias@gmail.com
 
 <!---
 Luanzacarias/Luanzacarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
