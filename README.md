@@ -1,5 +1,5 @@
 - Olá, Meu nome é Luan Zacarias.
-- Tenho 17 ano e sou estudante do Ensino Médio.
+- Tenho 17 anos e sou estudante do Ensino Médio.
 - Atualmente estudo Javascript e React Native, sempre em busca de me aperfeiçoar.
 
 
