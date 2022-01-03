@@ -1,5 +1,5 @@
 - Olá, Meu nome é Luan Zacarias.
-- Tenho 10 anos e estou ingressando na faculdade de ciência da computação.
+- Tenho 18 anos e estou ingressando na faculdade de ciência da computação.
 - Atualmente estudo web e React Native, sempre em busca de me aperfeiçoar.
 
 
