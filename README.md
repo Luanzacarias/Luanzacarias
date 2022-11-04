@@ -1,10 +1,10 @@
 - Olá, Meu nome é Luan Zacarias.
 - Tenho 18 anos e estou ingressando na faculdade de ciência da computação.
-- Atualmente estudo web e React Native, sempre em busca de me aperfeiçoar.
+- Atualmente estudo React e React Native, sempre em busca de me aperfeiçoar.
 
 
 
-- Conhecimentos em HTML, CSS, Javascript, Typescript, React Native, Python e SQL.
+- Conhecimentos em HTML, CSS, Javascript, Typescript, React e algumas mais.
 - Contato: luanslzacarias@gmail.com
 
 <!---
