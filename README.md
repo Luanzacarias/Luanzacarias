@@ -4,7 +4,7 @@
 
 
 
-- Conhecimentos em HTML, CSS, Javascript, Typescript, React, NextJs, tailwind e algumas mais.
+- Conhecimentos em HTML, CSS, Javascript, Typescript, React, React Native, NextJs, tailwind e algumas mais.
 - Contato: luanslzacarias@gmail.com
 
 <!---
