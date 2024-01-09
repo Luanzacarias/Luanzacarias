@@ -1,6 +1,6 @@
 - Olá, Meu nome é Luan Zacarias.
-- Tenho 19 anos e estou cursando ciência da computação.
-- Atualmente estudo React, sempre em busca de me aperfeiçoar.
+- Tenho 20 anos e estou cursando ciência da computação.
+- Atualmente estudo React e React NAtive, sempre em busca de me aperfeiçoar.
 
 
 
